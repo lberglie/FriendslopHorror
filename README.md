@@ -29,7 +29,7 @@ Players will have to navigate dark dungeon while avoiding what lurks in the dark
 We are constantly looking for feedback on the atmosphere, movement mechanics, and difficulty curve! 
 
 * **Report Bugs:** Please use the [Issues tab](https://github.com/lberglie/FriendslopHorror/issues).
-* **Roadmap:** Check out our [Trello board / Link] to see what we're working on next.
+* **Roadmap:** Check out our [Trello board](https://trello.com/invite/b/69ea36f11ab0e92cc8d3655c/ATTI252c340b8bf169c21f27e9e546949afa08D32737/my-trello-board) to see what we're working on next.
 
 ## 📄 License & Credits
 * **Engine:** Built with [Unity]
