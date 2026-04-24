@@ -5,7 +5,7 @@
 
 > **STATUS: Pre-Alpha / Early Prototype** > This game is currently in active early development. Features, mechanics, and assets are subject to change.
 
-![Latest screenshot](https://media.githubusercontent.com/media/lberglie/FriendslopHorror/main/Showcase/Screenshot%202026-04-24%20032241.png) "Latest screenshot")
+![Latest screenshot](https://media.githubusercontent.com/media/lberglie/FriendslopHorror/main/Showcase/Screenshot%202026-04-24%20032241.png)
 
 ## About the Game
 **Friendslop Horror** is a first person horror game about exploring a mysterious dungeon, avoiding its inhabitants. 
