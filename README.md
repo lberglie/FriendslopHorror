@@ -11,9 +11,9 @@
 Players will have to navigate dark dungeon while avoiding what lurks in the dark.
 
 ## ✨ Current / Planned Features
-* **[Feature 1]:** E.g., Retro PSX-style graphics and unsettling nostalgic aesthetics.
-* **[Feature 2]:** E.g., Dynamic AI that stalks you.
-* **[Feature 3]:** E.g., Environmental puzzle-solving while under pressure.
+* **[Feature 1]:** Retro PSX-style graphics and unsettling nostalgic aesthetics.
+* **[Feature 2]:** Dynamic AI that stalks you.
+* **[Feature 3]:** Environmental puzzle-solving while under pressure.
 
 ## 🎮 Controls (Default)
 * **W, A, S, D** - Movement
