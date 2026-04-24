@@ -1,29 +1,31 @@
 
 ***
 
-# 🧸 Friendslop Horror (Working Title)
+# Friendslop Horror (Working Title)
 
-> **⚠️ STATUS: Pre-Alpha / Early Prototype** > This game is currently in active early development. Features, mechanics, and assets are subject to change.
+> **STATUS: Pre-Alpha / Early Prototype** > This game is currently in active early development. Features, mechanics, and assets are subject to change.
 
-## 📖 About the Game
+![Latest screenshot](Showcase/Screenshot 2026-04-24 032241.png)
+
+## About the Game
 **Friendslop Horror** is a first person horror game about exploring a mysterious dungeon, avoiding its inhabitants. 
 
 Players will have to navigate dark dungeon while avoiding what lurks in the dark.
 
-## ✨ Current / Planned Features
+## Current / Planned Features
 * **[Feature 1]:** Retro PSX-style graphics and unsettling nostalgic aesthetics.
 * **[Feature 2]:** Dynamic AI that stalks you.
 * **[Feature 3]:** Environmental puzzle-solving while under pressure.
 
-## 🎮 Controls (Default)
+## Controls (Default)
 * **W, A, S, D** - Movement
 
-## 🚀 How to Play (Playtest Build)
+## How to Play (Playtest Build)
 1. Download the latest `.zip` release from the [Releases page](#) (or itch.io link).
 2. Extract the folder to your desired location.
 3. Run `FriendslopHorror.exe`.
 
-## 🛠️ Development & Feedback
+## Development & Feedback
 We are constantly looking for feedback on the atmosphere, movement mechanics, and difficulty curve! 
 
 * **Report Bugs:** Please use the [Issues tab](#).
