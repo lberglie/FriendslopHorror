@@ -20,6 +20,9 @@ Players will have to navigate dark dungeon while avoiding what lurks in the dark
 ## Controls (Default)
 * **W, A, S, D** - Movement
 
+## Gameplay Loop
+* Balance hiding and advancing through the dungeon without getting caught by the monsters. Stamina management and clever item combinations are key.
+
 ## How to Play (Playtest Build)
 1. Download the latest `.zip` release from the [Releases page](https://github.com/lberglie/FriendslopHorror/releases).
 2. Extract the folder to your desired location.
