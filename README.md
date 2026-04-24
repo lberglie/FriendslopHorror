@@ -21,14 +21,14 @@ Players will have to navigate dark dungeon while avoiding what lurks in the dark
 * **W, A, S, D** - Movement
 
 ## How to Play (Playtest Build)
-1. Download the latest `.zip` release from the [Releases page](#).
+1. Download the latest `.zip` release from the [Releases page](https://github.com/lberglie/FriendslopHorror/releases).
 2. Extract the folder to your desired location.
 3. Run `FriendslopHorror.exe`.
 
 ## Development & Feedback
 We are constantly looking for feedback on the atmosphere, movement mechanics, and difficulty curve! 
 
-* **Report Bugs:** Please use the [Issues tab](#).
+* **Report Bugs:** Please use the [Issues tab](https://github.com/lberglie/FriendslopHorror/issues).
 * **Roadmap:** Check out our [Trello board / Link] to see what we're working on next.
 
 ## 📄 License & Credits
