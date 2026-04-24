@@ -21,7 +21,7 @@ Players will have to navigate dark dungeon while avoiding what lurks in the dark
 * **W, A, S, D** - Movement
 
 ## How to Play (Playtest Build)
-1. Download the latest `.zip` release from the [Releases page](#) (or itch.io link).
+1. Download the latest `.zip` release from the [Releases page](#).
 2. Extract the folder to your desired location.
 3. Run `FriendslopHorror.exe`.
 
